@@ -1,6 +1,0 @@
-ERROR boris
-WARNING mubina
-ERROR shoha
-WARNING murod
-WARNING sardoor
-ERROR cs2
