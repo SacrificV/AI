@@ -35,8 +35,8 @@ dataSensor = [
 
 expectedOutput = [0.2, 0.7, 0.2, 0.7, 0.2, 0.7, 0.2, 0.7]
 
-# --- Инициализация весов (как в C++) ---
-# inputWeights1: [numHidNeurons1][numInpNeurons] -> [3][2]
+# --- Инициализация весов ---
+# inputWeights1: [numHidNeurons1][numInpNeurons] -> [3][2] 
 inputWeights1 = [
     [-1.00, 1.00],
     [2.50, 0.40],
@@ -52,7 +52,7 @@ inputWeights2 = [
 # outputWeights: [numOutNeurons][numHidNeurons2] -> [1][2]
 outputWeights = [[0.75, -0.22]]
 
-# --- Переменные для хранения промежуточных результатов (как в C++) ---
+# --- Переменные для хранения промежуточных результатов ---
 hiddenCombined1 = [0.0] * numHidNeurons1
 activityNeuron1 = [0.0] * numHidNeurons1
 
@@ -175,8 +175,7 @@ def trainKohonenNetwork():
 
         # Слой 2 -> Выход
         for i in range(numHidNeurons2):
-            # Ошибка скрытого нейрона (используем производную сигмоиды для корректности,
-            # хотя в оригинале C++ она была опущена для этого слоя, но без нее обучение не сработает)
+            # Ошибка скрытого нейрона 
             errorHiddenNeuron2[i] = outputWeights[0][i] * errorOutputNeuron * activityNeuron2[i] * (
                         1 - activityNeuron2[i])
 
@@ -232,7 +231,7 @@ def main():
     while True:
         trainKohonenNetwork()
 
-        # --- Финальный проход для сбора статистики (как в C++ main loop) ---
+        # --- Финальный проход для сбора статистики---
         for vectorIdx in range(numVectors):
             h1 = [activationFunction(sum(dataSensor[vectorIdx][k] * inputWeights1[i][k] for k in range(numInpNeurons)))
                   for i in range(numHidNeurons1)]
@@ -244,7 +243,7 @@ def main():
         # Расчет времени обучения сети (в секундах)
         studyingTime = time.time()
 
-        # Расчет прогресса сети (как в C++)
+        # Расчет прогресса сети
         lastVectorIdx = numVectors - 1
         h1_last = [
             activationFunction(sum(dataSensor[lastVectorIdx][k] * inputWeights1[i][k] for k in range(numInpNeurons)))
