@@ -1,0 +1,1431 @@
+C:\Users\veineya\PycharmProjects\Week11\.venv\Scripts\python.exe C:\Users\veineya\PycharmProjects\Week11\Konohens_neuron_network.py 
+
+============================================================
+dataSensor ( Входные данные для обучения )
+  ['0.11', '0.32']
+  ['0.68', '0.89']
+  ['0.03', '0.44']
+  ['0.69', '0.70']
+  ['0.32', '0.05']
+  ['0.89', '0.50']
+  ['0.43', '0.32']
+  ['0.60', '0.55']
+
+expectedOutput ( Ожидаемые выходы )
+  [0.2, 0.7, 0.2, 0.7, 0.2, 0.7, 0.2, 0.7]
+
+inputWeights1 ( Начальные веса: Вход -> Скрытый 1 )
+  ['-1.00', '1.00']
+  ['2.50', '0.40']
+  ['1.00', '-1.50']
+
+inputWeights2 ( Начальные веса: Скрытый 1 -> Скрытый 2 )
+  ['2.20', '-1.40', '0.56']
+  ['0.34', '1.05', '3.10']
+
+outputWeights ( Начальные веса: Скрытый 2 -> Выход )
+  ['0.75', '-0.22']
+
+Старт работы сети
+AMErrors: 0.2639
+minProgress: 82.50 %
+Time: 1777215712.74 c
+AMErrors: 0.2631
+minProgress: 80.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2624
+minProgress: 79.24 %
+Time: 1777215712.74 c
+AMErrors: 0.2618
+minProgress: 78.14 %
+Time: 1777215712.74 c
+AMErrors: 0.2613
+minProgress: 77.31 %
+Time: 1777215712.74 c
+AMErrors: 0.2609
+minProgress: 76.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2605
+minProgress: 76.17 %
+Time: 1777215712.74 c
+AMErrors: 0.2602
+minProgress: 75.79 %
+Time: 1777215712.74 c
+AMErrors: 0.2600
+minProgress: 75.50 %
+Time: 1777215712.74 c
+AMErrors: 0.2597
+minProgress: 75.28 %
+Time: 1777215712.74 c
+AMErrors: 0.2595
+minProgress: 75.12 %
+Time: 1777215712.74 c
+AMErrors: 0.2593
+minProgress: 74.99 %
+Time: 1777215712.74 c
+AMErrors: 0.2592
+minProgress: 74.89 %
+Time: 1777215712.74 c
+AMErrors: 0.2590
+minProgress: 74.82 %
+Time: 1777215712.74 c
+AMErrors: 0.2589
+minProgress: 74.77 %
+Time: 1777215712.74 c
+AMErrors: 0.2587
+minProgress: 74.73 %
+Time: 1777215712.74 c
+AMErrors: 0.2586
+minProgress: 74.70 %
+Time: 1777215712.74 c
+AMErrors: 0.2585
+minProgress: 74.68 %
+Time: 1777215712.74 c
+AMErrors: 0.2583
+minProgress: 74.67 %
+Time: 1777215712.74 c
+AMErrors: 0.2582
+minProgress: 74.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2581
+minProgress: 74.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2580
+minProgress: 74.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2579
+minProgress: 74.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2578
+minProgress: 74.66 %
+Time: 1777215712.74 c
+AMErrors: 0.2576
+minProgress: 74.67 %
+Time: 1777215712.74 c
+AMErrors: 0.2575
+minProgress: 74.67 %
+Time: 1777215712.74 c
+AMErrors: 0.2574
+minProgress: 74.68 %
+Time: 1777215712.74 c
+AMErrors: 0.2573
+minProgress: 74.68 %
+Time: 1777215712.74 c
+AMErrors: 0.2572
+minProgress: 74.69 %
+Time: 1777215712.74 c
+AMErrors: 0.2571
+minProgress: 74.70 %
+Time: 1777215712.74 c
+AMErrors: 0.2570
+minProgress: 74.70 %
+Time: 1777215712.74 c
+AMErrors: 0.2569
+minProgress: 74.71 %
+Time: 1777215712.74 c
+AMErrors: 0.2568
+minProgress: 74.72 %
+Time: 1777215712.74 c
+AMErrors: 0.2567
+minProgress: 74.72 %
+Time: 1777215712.74 c
+AMErrors: 0.2566
+minProgress: 74.73 %
+Time: 1777215712.74 c
+AMErrors: 0.2565
+minProgress: 74.74 %
+Time: 1777215712.74 c
+AMErrors: 0.2565
+minProgress: 74.74 %
+Time: 1777215712.74 c
+AMErrors: 0.2564
+minProgress: 74.75 %
+Time: 1777215712.74 c
+AMErrors: 0.2563
+minProgress: 74.76 %
+Time: 1777215712.74 c
+AMErrors: 0.2562
+minProgress: 74.77 %
+Time: 1777215712.74 c
+AMErrors: 0.2561
+minProgress: 74.77 %
+Time: 1777215712.74 c
+AMErrors: 0.2560
+minProgress: 74.78 %
+Time: 1777215712.74 c
+AMErrors: 0.2559
+minProgress: 74.79 %
+Time: 1777215712.74 c
+AMErrors: 0.2558
+minProgress: 74.79 %
+Time: 1777215712.74 c
+AMErrors: 0.2557
+minProgress: 74.80 %
+Time: 1777215712.74 c
+AMErrors: 0.2557
+minProgress: 74.81 %
+Time: 1777215712.74 c
+AMErrors: 0.2556
+minProgress: 74.81 %
+Time: 1777215712.74 c
+AMErrors: 0.2555
+minProgress: 74.82 %
+Time: 1777215712.74 c
+AMErrors: 0.2554
+minProgress: 74.83 %
+Time: 1777215712.74 c
+AMErrors: 0.2553
+minProgress: 74.83 %
+Time: 1777215712.74 c
+AMErrors: 0.2552
+minProgress: 74.84 %
+Time: 1777215712.74 c
+AMErrors: 0.2551
+minProgress: 74.84 %
+Time: 1777215712.74 c
+AMErrors: 0.2551
+minProgress: 74.85 %
+Time: 1777215712.74 c
+AMErrors: 0.2550
+minProgress: 74.86 %
+Time: 1777215712.82 c
+AMErrors: 0.2549
+minProgress: 74.86 %
+Time: 1777215712.82 c
+AMErrors: 0.2548
+minProgress: 74.87 %
+Time: 1777215712.82 c
+AMErrors: 0.2547
+minProgress: 74.87 %
+Time: 1777215712.82 c
+AMErrors: 0.2546
+minProgress: 74.88 %
+Time: 1777215712.82 c
+AMErrors: 0.2546
+minProgress: 74.89 %
+Time: 1777215712.82 c
+AMErrors: 0.2545
+minProgress: 74.89 %
+Time: 1777215712.82 c
+AMErrors: 0.2544
+minProgress: 74.90 %
+Time: 1777215712.82 c
+AMErrors: 0.2543
+minProgress: 74.90 %
+Time: 1777215712.82 c
+AMErrors: 0.2542
+minProgress: 74.91 %
+Time: 1777215712.82 c
+AMErrors: 0.2542
+minProgress: 74.91 %
+Time: 1777215712.82 c
+AMErrors: 0.2541
+minProgress: 74.92 %
+Time: 1777215712.82 c
+AMErrors: 0.2540
+minProgress: 74.92 %
+Time: 1777215712.82 c
+AMErrors: 0.2539
+minProgress: 74.93 %
+Time: 1777215712.82 c
+AMErrors: 0.2538
+minProgress: 74.93 %
+Time: 1777215712.82 c
+AMErrors: 0.2538
+minProgress: 74.94 %
+Time: 1777215712.82 c
+AMErrors: 0.2537
+minProgress: 74.94 %
+Time: 1777215712.82 c
+AMErrors: 0.2536
+minProgress: 74.95 %
+Time: 1777215712.82 c
+AMErrors: 0.2535
+minProgress: 74.96 %
+Time: 1777215712.82 c
+AMErrors: 0.2534
+minProgress: 74.96 %
+Time: 1777215712.82 c
+AMErrors: 0.2534
+minProgress: 74.97 %
+Time: 1777215712.82 c
+AMErrors: 0.2533
+minProgress: 74.97 %
+Time: 1777215712.82 c
+AMErrors: 0.2532
+minProgress: 74.98 %
+Time: 1777215712.82 c
+AMErrors: 0.2531
+minProgress: 74.98 %
+Time: 1777215712.82 c
+AMErrors: 0.2530
+minProgress: 74.99 %
+Time: 1777215712.82 c
+AMErrors: 0.2530
+minProgress: 74.99 %
+Time: 1777215712.82 c
+AMErrors: 0.2529
+minProgress: 75.00 %
+Time: 1777215712.82 c
+AMErrors: 0.2528
+minProgress: 75.00 %
+Time: 1777215712.82 c
+AMErrors: 0.2527
+minProgress: 75.01 %
+Time: 1777215712.82 c
+AMErrors: 0.2526
+minProgress: 75.01 %
+Time: 1777215712.82 c
+AMErrors: 0.2525
+minProgress: 75.02 %
+Time: 1777215712.82 c
+AMErrors: 0.2525
+minProgress: 75.02 %
+Time: 1777215712.82 c
+AMErrors: 0.2524
+minProgress: 75.02 %
+Time: 1777215712.82 c
+AMErrors: 0.2523
+minProgress: 75.03 %
+Time: 1777215712.82 c
+AMErrors: 0.2522
+minProgress: 75.03 %
+Time: 1777215712.82 c
+AMErrors: 0.2521
+minProgress: 75.04 %
+Time: 1777215712.82 c
+AMErrors: 0.2520
+minProgress: 75.04 %
+Time: 1777215712.82 c
+AMErrors: 0.2519
+minProgress: 75.05 %
+Time: 1777215712.82 c
+AMErrors: 0.2519
+minProgress: 75.05 %
+Time: 1777215712.82 c
+AMErrors: 0.2518
+minProgress: 75.06 %
+Time: 1777215712.82 c
+AMErrors: 0.2517
+minProgress: 75.06 %
+Time: 1777215712.82 c
+AMErrors: 0.2516
+minProgress: 75.07 %
+Time: 1777215712.82 c
+AMErrors: 0.2515
+minProgress: 75.07 %
+Time: 1777215712.82 c
+AMErrors: 0.2514
+minProgress: 75.08 %
+Time: 1777215712.82 c
+AMErrors: 0.2513
+minProgress: 75.08 %
+Time: 1777215712.82 c
+AMErrors: 0.2512
+minProgress: 75.09 %
+Time: 1777215712.82 c
+AMErrors: 0.2511
+minProgress: 75.09 %
+Time: 1777215712.82 c
+AMErrors: 0.2510
+minProgress: 75.10 %
+Time: 1777215712.82 c
+AMErrors: 0.2509
+minProgress: 75.10 %
+Time: 1777215712.82 c
+AMErrors: 0.2509
+minProgress: 75.11 %
+Time: 1777215712.82 c
+AMErrors: 0.2508
+minProgress: 75.11 %
+Time: 1777215712.82 c
+AMErrors: 0.2507
+minProgress: 75.12 %
+Time: 1777215712.82 c
+AMErrors: 0.2506
+minProgress: 75.12 %
+Time: 1777215712.82 c
+AMErrors: 0.2505
+minProgress: 75.13 %
+Time: 1777215712.82 c
+AMErrors: 0.2504
+minProgress: 75.13 %
+Time: 1777215712.82 c
+AMErrors: 0.2503
+minProgress: 75.14 %
+Time: 1777215712.82 c
+AMErrors: 0.2502
+minProgress: 75.14 %
+Time: 1777215712.82 c
+AMErrors: 0.2501
+minProgress: 75.15 %
+Time: 1777215712.82 c
+AMErrors: 0.2500
+minProgress: 75.15 %
+Time: 1777215712.82 c
+AMErrors: 0.2498
+minProgress: 75.16 %
+Time: 1777215712.82 c
+AMErrors: 0.2497
+minProgress: 75.16 %
+Time: 1777215712.82 c
+AMErrors: 0.2496
+minProgress: 75.17 %
+Time: 1777215712.82 c
+AMErrors: 0.2495
+minProgress: 75.17 %
+Time: 1777215712.82 c
+AMErrors: 0.2494
+minProgress: 75.18 %
+Time: 1777215712.82 c
+AMErrors: 0.2493
+minProgress: 75.18 %
+Time: 1777215712.82 c
+AMErrors: 0.2492
+minProgress: 75.19 %
+Time: 1777215712.82 c
+AMErrors: 0.2491
+minProgress: 75.20 %
+Time: 1777215712.82 c
+AMErrors: 0.2490
+minProgress: 75.20 %
+Time: 1777215712.82 c
+AMErrors: 0.2488
+minProgress: 75.21 %
+Time: 1777215712.82 c
+AMErrors: 0.2487
+minProgress: 75.21 %
+Time: 1777215712.82 c
+AMErrors: 0.2486
+minProgress: 75.22 %
+Time: 1777215712.82 c
+AMErrors: 0.2485
+minProgress: 75.22 %
+Time: 1777215712.82 c
+AMErrors: 0.2484
+minProgress: 75.23 %
+Time: 1777215712.82 c
+AMErrors: 0.2482
+minProgress: 75.23 %
+Time: 1777215712.82 c
+AMErrors: 0.2481
+minProgress: 75.24 %
+Time: 1777215712.82 c
+AMErrors: 0.2480
+minProgress: 75.25 %
+Time: 1777215712.82 c
+AMErrors: 0.2479
+minProgress: 75.25 %
+Time: 1777215712.82 c
+AMErrors: 0.2477
+minProgress: 75.26 %
+Time: 1777215712.82 c
+AMErrors: 0.2476
+minProgress: 75.27 %
+Time: 1777215712.82 c
+AMErrors: 0.2475
+minProgress: 75.27 %
+Time: 1777215712.82 c
+AMErrors: 0.2473
+minProgress: 75.28 %
+Time: 1777215712.82 c
+AMErrors: 0.2472
+minProgress: 75.28 %
+Time: 1777215712.82 c
+AMErrors: 0.2470
+minProgress: 75.29 %
+Time: 1777215712.82 c
+AMErrors: 0.2469
+minProgress: 75.30 %
+Time: 1777215712.82 c
+AMErrors: 0.2468
+minProgress: 75.30 %
+Time: 1777215712.82 c
+AMErrors: 0.2466
+minProgress: 75.31 %
+Time: 1777215712.82 c
+AMErrors: 0.2465
+minProgress: 75.32 %
+Time: 1777215712.82 c
+AMErrors: 0.2463
+minProgress: 75.32 %
+Time: 1777215712.82 c
+AMErrors: 0.2462
+minProgress: 75.33 %
+Time: 1777215712.82 c
+AMErrors: 0.2460
+minProgress: 75.34 %
+Time: 1777215712.82 c
+AMErrors: 0.2459
+minProgress: 75.35 %
+Time: 1777215712.82 c
+AMErrors: 0.2457
+minProgress: 75.35 %
+Time: 1777215712.82 c
+AMErrors: 0.2455
+minProgress: 75.36 %
+Time: 1777215712.82 c
+AMErrors: 0.2454
+minProgress: 75.37 %
+Time: 1777215712.82 c
+AMErrors: 0.2452
+minProgress: 75.38 %
+Time: 1777215712.82 c
+AMErrors: 0.2450
+minProgress: 75.38 %
+Time: 1777215712.82 c
+AMErrors: 0.2449
+minProgress: 75.39 %
+Time: 1777215712.82 c
+AMErrors: 0.2447
+minProgress: 75.40 %
+Time: 1777215712.82 c
+AMErrors: 0.2445
+minProgress: 75.41 %
+Time: 1777215712.82 c
+AMErrors: 0.2444
+minProgress: 75.42 %
+Time: 1777215712.82 c
+AMErrors: 0.2442
+minProgress: 75.43 %
+Time: 1777215712.82 c
+AMErrors: 0.2440
+minProgress: 75.43 %
+Time: 1777215712.82 c
+AMErrors: 0.2438
+minProgress: 75.44 %
+Time: 1777215712.82 c
+AMErrors: 0.2436
+minProgress: 75.45 %
+Time: 1777215712.82 c
+AMErrors: 0.2434
+minProgress: 75.46 %
+Time: 1777215712.82 c
+AMErrors: 0.2432
+minProgress: 75.47 %
+Time: 1777215712.82 c
+AMErrors: 0.2430
+minProgress: 75.48 %
+Time: 1777215712.82 c
+AMErrors: 0.2428
+minProgress: 75.49 %
+Time: 1777215712.82 c
+AMErrors: 0.2426
+minProgress: 75.50 %
+Time: 1777215712.82 c
+AMErrors: 0.2424
+minProgress: 75.51 %
+Time: 1777215712.82 c
+AMErrors: 0.2422
+minProgress: 75.52 %
+Time: 1777215712.82 c
+AMErrors: 0.2420
+minProgress: 75.53 %
+Time: 1777215712.82 c
+AMErrors: 0.2418
+minProgress: 75.54 %
+Time: 1777215712.82 c
+AMErrors: 0.2416
+minProgress: 75.55 %
+Time: 1777215712.82 c
+AMErrors: 0.2414
+minProgress: 75.56 %
+Time: 1777215712.82 c
+AMErrors: 0.2412
+minProgress: 75.57 %
+Time: 1777215712.82 c
+AMErrors: 0.2409
+minProgress: 75.58 %
+Time: 1777215712.82 c
+AMErrors: 0.2407
+minProgress: 75.59 %
+Time: 1777215712.82 c
+AMErrors: 0.2405
+minProgress: 75.60 %
+Time: 1777215712.83 c
+AMErrors: 0.2403
+minProgress: 75.62 %
+Time: 1777215712.83 c
+AMErrors: 0.2400
+minProgress: 75.63 %
+Time: 1777215712.83 c
+AMErrors: 0.2398
+minProgress: 75.64 %
+Time: 1777215712.83 c
+AMErrors: 0.2395
+minProgress: 75.65 %
+Time: 1777215712.83 c
+AMErrors: 0.2393
+minProgress: 75.66 %
+Time: 1777215712.83 c
+AMErrors: 0.2390
+minProgress: 75.68 %
+Time: 1777215712.83 c
+AMErrors: 0.2388
+minProgress: 75.69 %
+Time: 1777215712.83 c
+AMErrors: 0.2385
+minProgress: 75.70 %
+Time: 1777215712.83 c
+AMErrors: 0.2383
+minProgress: 75.71 %
+Time: 1777215712.83 c
+AMErrors: 0.2380
+minProgress: 75.73 %
+Time: 1777215712.83 c
+AMErrors: 0.2378
+minProgress: 75.74 %
+Time: 1777215712.83 c
+AMErrors: 0.2375
+minProgress: 75.75 %
+Time: 1777215712.83 c
+AMErrors: 0.2372
+minProgress: 75.77 %
+Time: 1777215712.83 c
+AMErrors: 0.2369
+minProgress: 75.78 %
+Time: 1777215712.83 c
+AMErrors: 0.2367
+minProgress: 75.80 %
+Time: 1777215712.83 c
+AMErrors: 0.2364
+minProgress: 75.81 %
+Time: 1777215712.83 c
+AMErrors: 0.2361
+minProgress: 75.83 %
+Time: 1777215712.83 c
+AMErrors: 0.2358
+minProgress: 75.84 %
+Time: 1777215712.83 c
+AMErrors: 0.2355
+minProgress: 75.86 %
+Time: 1777215712.83 c
+AMErrors: 0.2352
+minProgress: 75.87 %
+Time: 1777215712.83 c
+AMErrors: 0.2349
+minProgress: 75.89 %
+Time: 1777215712.83 c
+AMErrors: 0.2346
+minProgress: 75.90 %
+Time: 1777215712.83 c
+AMErrors: 0.2343
+minProgress: 75.92 %
+Time: 1777215712.83 c
+AMErrors: 0.2340
+minProgress: 75.94 %
+Time: 1777215712.83 c
+AMErrors: 0.2337
+minProgress: 75.95 %
+Time: 1777215712.83 c
+AMErrors: 0.2334
+minProgress: 75.97 %
+Time: 1777215712.83 c
+AMErrors: 0.2330
+minProgress: 75.99 %
+Time: 1777215712.83 c
+AMErrors: 0.2327
+minProgress: 76.00 %
+Time: 1777215712.83 c
+AMErrors: 0.2324
+minProgress: 76.02 %
+Time: 1777215712.83 c
+AMErrors: 0.2321
+minProgress: 76.04 %
+Time: 1777215712.83 c
+AMErrors: 0.2317
+minProgress: 76.06 %
+Time: 1777215712.83 c
+AMErrors: 0.2314
+minProgress: 76.08 %
+Time: 1777215712.83 c
+AMErrors: 0.2311
+minProgress: 76.09 %
+Time: 1777215712.83 c
+AMErrors: 0.2307
+minProgress: 76.11 %
+Time: 1777215712.83 c
+AMErrors: 0.2304
+minProgress: 76.13 %
+Time: 1777215712.83 c
+AMErrors: 0.2300
+minProgress: 76.15 %
+Time: 1777215712.83 c
+AMErrors: 0.2297
+minProgress: 76.17 %
+Time: 1777215712.83 c
+AMErrors: 0.2293
+minProgress: 76.19 %
+Time: 1777215712.83 c
+AMErrors: 0.2289
+minProgress: 76.21 %
+Time: 1777215712.83 c
+AMErrors: 0.2286
+minProgress: 76.23 %
+Time: 1777215712.83 c
+AMErrors: 0.2282
+minProgress: 76.25 %
+Time: 1777215712.83 c
+AMErrors: 0.2278
+minProgress: 76.27 %
+Time: 1777215712.83 c
+AMErrors: 0.2275
+minProgress: 76.29 %
+Time: 1777215712.83 c
+AMErrors: 0.2271
+minProgress: 76.32 %
+Time: 1777215712.83 c
+AMErrors: 0.2267
+minProgress: 76.34 %
+Time: 1777215712.83 c
+AMErrors: 0.2263
+minProgress: 76.36 %
+Time: 1777215712.83 c
+AMErrors: 0.2259
+minProgress: 76.38 %
+Time: 1777215712.83 c
+AMErrors: 0.2255
+minProgress: 76.40 %
+Time: 1777215712.83 c
+AMErrors: 0.2251
+minProgress: 76.43 %
+Time: 1777215712.83 c
+AMErrors: 0.2247
+minProgress: 76.45 %
+Time: 1777215712.83 c
+AMErrors: 0.2243
+minProgress: 76.47 %
+Time: 1777215712.83 c
+AMErrors: 0.2239
+minProgress: 76.50 %
+Time: 1777215712.83 c
+AMErrors: 0.2235
+minProgress: 76.52 %
+Time: 1777215712.83 c
+AMErrors: 0.2231
+minProgress: 76.54 %
+Time: 1777215712.83 c
+AMErrors: 0.2227
+minProgress: 76.57 %
+Time: 1777215712.83 c
+AMErrors: 0.2223
+minProgress: 76.59 %
+Time: 1777215712.83 c
+AMErrors: 0.2218
+minProgress: 76.62 %
+Time: 1777215712.83 c
+AMErrors: 0.2214
+minProgress: 76.64 %
+Time: 1777215712.83 c
+AMErrors: 0.2210
+minProgress: 76.67 %
+Time: 1777215712.83 c
+AMErrors: 0.2206
+minProgress: 76.69 %
+Time: 1777215712.83 c
+AMErrors: 0.2201
+minProgress: 76.72 %
+Time: 1777215712.83 c
+AMErrors: 0.2197
+minProgress: 76.75 %
+Time: 1777215712.83 c
+AMErrors: 0.2192
+minProgress: 76.77 %
+Time: 1777215712.83 c
+AMErrors: 0.2188
+minProgress: 76.80 %
+Time: 1777215712.83 c
+AMErrors: 0.2184
+minProgress: 76.83 %
+Time: 1777215712.83 c
+AMErrors: 0.2179
+minProgress: 76.85 %
+Time: 1777215712.83 c
+AMErrors: 0.2175
+minProgress: 76.88 %
+Time: 1777215712.83 c
+AMErrors: 0.2170
+minProgress: 76.91 %
+Time: 1777215712.83 c
+AMErrors: 0.2165
+minProgress: 76.94 %
+Time: 1777215712.83 c
+AMErrors: 0.2161
+minProgress: 76.97 %
+Time: 1777215712.83 c
+AMErrors: 0.2156
+minProgress: 76.99 %
+Time: 1777215712.83 c
+AMErrors: 0.2152
+minProgress: 77.02 %
+Time: 1777215712.83 c
+AMErrors: 0.2147
+minProgress: 77.05 %
+Time: 1777215712.83 c
+AMErrors: 0.2142
+minProgress: 77.08 %
+Time: 1777215712.83 c
+AMErrors: 0.2138
+minProgress: 77.11 %
+Time: 1777215712.83 c
+AMErrors: 0.2133
+minProgress: 77.14 %
+Time: 1777215712.83 c
+AMErrors: 0.2128
+minProgress: 77.17 %
+Time: 1777215712.83 c
+AMErrors: 0.2123
+minProgress: 77.20 %
+Time: 1777215712.83 c
+AMErrors: 0.2118
+minProgress: 77.23 %
+Time: 1777215712.83 c
+AMErrors: 0.2114
+minProgress: 77.26 %
+Time: 1777215712.83 c
+AMErrors: 0.2109
+minProgress: 77.29 %
+Time: 1777215712.83 c
+AMErrors: 0.2104
+minProgress: 77.33 %
+Time: 1777215712.83 c
+AMErrors: 0.2099
+minProgress: 77.36 %
+Time: 1777215712.83 c
+AMErrors: 0.2094
+minProgress: 77.39 %
+Time: 1777215712.83 c
+AMErrors: 0.2089
+minProgress: 77.42 %
+Time: 1777215712.83 c
+AMErrors: 0.2084
+minProgress: 77.45 %
+Time: 1777215712.83 c
+AMErrors: 0.2079
+minProgress: 77.49 %
+Time: 1777215712.83 c
+AMErrors: 0.2074
+minProgress: 77.52 %
+Time: 1777215712.83 c
+AMErrors: 0.2069
+minProgress: 77.55 %
+Time: 1777215712.83 c
+AMErrors: 0.2064
+minProgress: 77.58 %
+Time: 1777215712.83 c
+AMErrors: 0.2059
+minProgress: 77.62 %
+Time: 1777215712.83 c
+AMErrors: 0.2054
+minProgress: 77.65 %
+Time: 1777215712.83 c
+AMErrors: 0.2049
+minProgress: 77.69 %
+Time: 1777215712.83 c
+AMErrors: 0.2044
+minProgress: 77.72 %
+Time: 1777215712.83 c
+AMErrors: 0.2038
+minProgress: 77.75 %
+Time: 1777215712.83 c
+AMErrors: 0.2033
+minProgress: 77.79 %
+Time: 1777215712.83 c
+AMErrors: 0.2028
+minProgress: 77.82 %
+Time: 1777215712.83 c
+AMErrors: 0.2023
+minProgress: 77.86 %
+Time: 1777215712.83 c
+AMErrors: 0.2018
+minProgress: 77.89 %
+Time: 1777215712.83 c
+AMErrors: 0.2012
+minProgress: 77.93 %
+Time: 1777215712.83 c
+AMErrors: 0.2007
+minProgress: 77.96 %
+Time: 1777215712.83 c
+AMErrors: 0.2002
+minProgress: 78.00 %
+Time: 1777215712.83 c
+AMErrors: 0.1997
+minProgress: 78.04 %
+Time: 1777215712.83 c
+AMErrors: 0.1991
+minProgress: 78.07 %
+Time: 1777215712.83 c
+AMErrors: 0.1986
+minProgress: 78.11 %
+Time: 1777215712.83 c
+AMErrors: 0.1981
+minProgress: 78.15 %
+Time: 1777215712.83 c
+AMErrors: 0.1975
+minProgress: 78.18 %
+Time: 1777215712.83 c
+AMErrors: 0.1970
+minProgress: 78.22 %
+Time: 1777215712.83 c
+AMErrors: 0.1965
+minProgress: 78.26 %
+Time: 1777215712.83 c
+AMErrors: 0.1959
+minProgress: 78.29 %
+Time: 1777215712.83 c
+AMErrors: 0.1954
+minProgress: 78.33 %
+Time: 1777215712.83 c
+AMErrors: 0.1949
+minProgress: 78.37 %
+Time: 1777215712.83 c
+AMErrors: 0.1943
+minProgress: 78.41 %
+Time: 1777215712.83 c
+AMErrors: 0.1938
+minProgress: 78.45 %
+Time: 1777215712.83 c
+AMErrors: 0.1933
+minProgress: 78.48 %
+Time: 1777215712.83 c
+AMErrors: 0.1927
+minProgress: 78.52 %
+Time: 1777215712.83 c
+AMErrors: 0.1922
+minProgress: 78.56 %
+Time: 1777215712.83 c
+AMErrors: 0.1916
+minProgress: 78.60 %
+Time: 1777215712.83 c
+AMErrors: 0.1911
+minProgress: 78.64 %
+Time: 1777215712.83 c
+AMErrors: 0.1905
+minProgress: 78.68 %
+Time: 1777215712.83 c
+AMErrors: 0.1900
+minProgress: 78.72 %
+Time: 1777215712.83 c
+AMErrors: 0.1895
+minProgress: 78.76 %
+Time: 1777215712.83 c
+AMErrors: 0.1889
+minProgress: 78.80 %
+Time: 1777215712.83 c
+AMErrors: 0.1884
+minProgress: 78.84 %
+Time: 1777215712.84 c
+AMErrors: 0.1878
+minProgress: 78.88 %
+Time: 1777215712.84 c
+AMErrors: 0.1873
+minProgress: 78.91 %
+Time: 1777215712.84 c
+AMErrors: 0.1867
+minProgress: 78.96 %
+Time: 1777215712.84 c
+AMErrors: 0.1862
+minProgress: 79.00 %
+Time: 1777215712.84 c
+AMErrors: 0.1856
+minProgress: 79.04 %
+Time: 1777215712.84 c
+AMErrors: 0.1851
+minProgress: 79.08 %
+Time: 1777215712.84 c
+AMErrors: 0.1845
+minProgress: 79.12 %
+Time: 1777215712.84 c
+AMErrors: 0.1840
+minProgress: 79.16 %
+Time: 1777215712.84 c
+AMErrors: 0.1834
+minProgress: 79.20 %
+Time: 1777215712.84 c
+AMErrors: 0.1829
+minProgress: 79.24 %
+Time: 1777215712.84 c
+AMErrors: 0.1823
+minProgress: 79.28 %
+Time: 1777215712.84 c
+AMErrors: 0.1818
+minProgress: 79.32 %
+Time: 1777215712.84 c
+AMErrors: 0.1812
+minProgress: 79.36 %
+Time: 1777215712.84 c
+AMErrors: 0.1807
+minProgress: 79.40 %
+Time: 1777215712.84 c
+AMErrors: 0.1801
+minProgress: 79.45 %
+Time: 1777215712.84 c
+AMErrors: 0.1796
+minProgress: 79.49 %
+Time: 1777215712.84 c
+AMErrors: 0.1790
+minProgress: 79.53 %
+Time: 1777215712.84 c
+AMErrors: 0.1785
+minProgress: 79.57 %
+Time: 1777215712.84 c
+AMErrors: 0.1779
+minProgress: 79.61 %
+Time: 1777215712.84 c
+AMErrors: 0.1774
+minProgress: 79.65 %
+Time: 1777215712.84 c
+AMErrors: 0.1768
+minProgress: 79.70 %
+Time: 1777215712.84 c
+AMErrors: 0.1763
+minProgress: 79.74 %
+Time: 1777215712.84 c
+AMErrors: 0.1757
+minProgress: 79.78 %
+Time: 1777215712.84 c
+AMErrors: 0.1752
+minProgress: 79.82 %
+Time: 1777215712.84 c
+AMErrors: 0.1746
+minProgress: 79.87 %
+Time: 1777215712.84 c
+AMErrors: 0.1741
+minProgress: 79.91 %
+Time: 1777215712.84 c
+AMErrors: 0.1736
+minProgress: 79.95 %
+Time: 1777215712.84 c
+AMErrors: 0.1730
+minProgress: 79.99 %
+Time: 1777215712.84 c
+AMErrors: 0.1725
+minProgress: 80.04 %
+Time: 1777215712.84 c
+AMErrors: 0.1719
+minProgress: 80.08 %
+Time: 1777215712.84 c
+AMErrors: 0.1714
+minProgress: 80.12 %
+Time: 1777215712.84 c
+AMErrors: 0.1708
+minProgress: 80.16 %
+Time: 1777215712.84 c
+AMErrors: 0.1703
+minProgress: 80.21 %
+Time: 1777215712.84 c
+AMErrors: 0.1698
+minProgress: 80.25 %
+Time: 1777215712.84 c
+AMErrors: 0.1692
+minProgress: 80.29 %
+Time: 1777215712.84 c
+AMErrors: 0.1687
+minProgress: 80.33 %
+Time: 1777215712.84 c
+AMErrors: 0.1681
+minProgress: 80.38 %
+Time: 1777215712.84 c
+AMErrors: 0.1676
+minProgress: 80.42 %
+Time: 1777215712.84 c
+AMErrors: 0.1671
+minProgress: 80.46 %
+Time: 1777215712.84 c
+AMErrors: 0.1665
+minProgress: 80.50 %
+Time: 1777215712.84 c
+AMErrors: 0.1660
+minProgress: 80.55 %
+Time: 1777215712.84 c
+AMErrors: 0.1655
+minProgress: 80.59 %
+Time: 1777215712.84 c
+AMErrors: 0.1649
+minProgress: 80.63 %
+Time: 1777215712.84 c
+AMErrors: 0.1644
+minProgress: 80.68 %
+Time: 1777215712.84 c
+AMErrors: 0.1639
+minProgress: 80.72 %
+Time: 1777215712.84 c
+AMErrors: 0.1633
+minProgress: 80.76 %
+Time: 1777215712.84 c
+AMErrors: 0.1628
+minProgress: 80.80 %
+Time: 1777215712.84 c
+AMErrors: 0.1623
+minProgress: 80.85 %
+Time: 1777215712.84 c
+AMErrors: 0.1618
+minProgress: 80.89 %
+Time: 1777215712.84 c
+AMErrors: 0.1613
+minProgress: 80.93 %
+Time: 1777215712.84 c
+AMErrors: 0.1607
+minProgress: 80.97 %
+Time: 1777215712.84 c
+AMErrors: 0.1602
+minProgress: 81.02 %
+Time: 1777215712.84 c
+AMErrors: 0.1597
+minProgress: 81.06 %
+Time: 1777215712.84 c
+AMErrors: 0.1592
+minProgress: 81.10 %
+Time: 1777215712.84 c
+AMErrors: 0.1587
+minProgress: 81.14 %
+Time: 1777215712.84 c
+AMErrors: 0.1582
+minProgress: 81.19 %
+Time: 1777215712.84 c
+AMErrors: 0.1576
+minProgress: 81.23 %
+Time: 1777215712.84 c
+AMErrors: 0.1571
+minProgress: 81.27 %
+Time: 1777215712.84 c
+AMErrors: 0.1566
+minProgress: 81.31 %
+Time: 1777215712.84 c
+AMErrors: 0.1561
+minProgress: 81.35 %
+Time: 1777215712.84 c
+AMErrors: 0.1556
+minProgress: 81.40 %
+Time: 1777215712.84 c
+AMErrors: 0.1551
+minProgress: 81.44 %
+Time: 1777215712.84 c
+AMErrors: 0.1546
+minProgress: 81.48 %
+Time: 1777215712.84 c
+AMErrors: 0.1541
+minProgress: 81.52 %
+Time: 1777215712.84 c
+AMErrors: 0.1536
+minProgress: 81.56 %
+Time: 1777215712.84 c
+AMErrors: 0.1531
+minProgress: 81.60 %
+Time: 1777215712.84 c
+AMErrors: 0.1526
+minProgress: 81.65 %
+Time: 1777215712.84 c
+AMErrors: 0.1521
+minProgress: 81.69 %
+Time: 1777215712.84 c
+AMErrors: 0.1516
+minProgress: 81.73 %
+Time: 1777215712.84 c
+AMErrors: 0.1512
+minProgress: 81.77 %
+Time: 1777215712.84 c
+AMErrors: 0.1507
+minProgress: 81.81 %
+Time: 1777215712.84 c
+AMErrors: 0.1502
+minProgress: 81.85 %
+Time: 1777215712.84 c
+AMErrors: 0.1497
+minProgress: 81.89 %
+Time: 1777215712.84 c
+AMErrors: 0.1492
+minProgress: 81.93 %
+Time: 1777215712.84 c
+AMErrors: 0.1488
+minProgress: 81.97 %
+Time: 1777215712.84 c
+AMErrors: 0.1483
+minProgress: 82.01 %
+Time: 1777215712.84 c
+AMErrors: 0.1478
+minProgress: 82.05 %
+Time: 1777215712.84 c
+AMErrors: 0.1473
+minProgress: 82.09 %
+Time: 1777215712.84 c
+AMErrors: 0.1469
+minProgress: 82.13 %
+Time: 1777215712.84 c
+AMErrors: 0.1464
+minProgress: 82.17 %
+Time: 1777215712.84 c
+AMErrors: 0.1459
+minProgress: 82.21 %
+Time: 1777215712.84 c
+AMErrors: 0.1455
+minProgress: 82.25 %
+Time: 1777215712.84 c
+AMErrors: 0.1450
+minProgress: 82.29 %
+Time: 1777215712.84 c
+AMErrors: 0.1446
+minProgress: 82.33 %
+Time: 1777215712.84 c
+AMErrors: 0.1441
+minProgress: 82.37 %
+Time: 1777215712.84 c
+AMErrors: 0.1437
+minProgress: 82.41 %
+Time: 1777215712.84 c
+AMErrors: 0.1432
+minProgress: 82.45 %
+Time: 1777215712.84 c
+AMErrors: 0.1428
+minProgress: 82.49 %
+Time: 1777215712.84 c
+AMErrors: 0.1423
+minProgress: 82.53 %
+Time: 1777215712.84 c
+AMErrors: 0.1419
+minProgress: 82.57 %
+Time: 1777215712.84 c
+AMErrors: 0.1414
+minProgress: 82.60 %
+Time: 1777215712.84 c
+AMErrors: 0.1410
+minProgress: 82.64 %
+Time: 1777215712.84 c
+AMErrors: 0.1406
+minProgress: 82.68 %
+Time: 1777215712.84 c
+AMErrors: 0.1401
+minProgress: 82.72 %
+Time: 1777215712.84 c
+AMErrors: 0.1397
+minProgress: 82.75 %
+Time: 1777215712.84 c
+AMErrors: 0.1393
+minProgress: 82.79 %
+Time: 1777215712.84 c
+AMErrors: 0.1389
+minProgress: 82.83 %
+Time: 1777215712.84 c
+AMErrors: 0.1384
+minProgress: 82.87 %
+Time: 1777215712.84 c
+AMErrors: 0.1380
+minProgress: 82.90 %
+Time: 1777215712.84 c
+AMErrors: 0.1376
+minProgress: 82.94 %
+Time: 1777215712.84 c
+AMErrors: 0.1372
+minProgress: 82.98 %
+Time: 1777215712.84 c
+AMErrors: 0.1368
+minProgress: 83.01 %
+Time: 1777215712.84 c
+AMErrors: 0.1364
+minProgress: 83.05 %
+Time: 1777215712.84 c
+AMErrors: 0.1360
+minProgress: 83.08 %
+Time: 1777215712.84 c
+AMErrors: 0.1355
+minProgress: 83.12 %
+Time: 1777215712.84 c
+AMErrors: 0.1351
+minProgress: 83.16 %
+Time: 1777215712.84 c
+AMErrors: 0.1347
+minProgress: 83.19 %
+Time: 1777215712.84 c
+AMErrors: 0.1344
+minProgress: 83.23 %
+Time: 1777215712.84 c
+AMErrors: 0.1340
+minProgress: 83.26 %
+Time: 1777215712.84 c
+AMErrors: 0.1336
+minProgress: 83.30 %
+Time: 1777215712.84 c
+AMErrors: 0.1332
+minProgress: 83.33 %
+Time: 1777215712.84 c
+AMErrors: 0.1328
+minProgress: 83.36 %
+Time: 1777215712.84 c
+AMErrors: 0.1324
+minProgress: 83.40 %
+Time: 1777215712.84 c
+AMErrors: 0.1320
+minProgress: 83.43 %
+Time: 1777215712.84 c
+AMErrors: 0.1316
+minProgress: 83.47 %
+Time: 1777215712.84 c
+AMErrors: 0.1313
+minProgress: 83.50 %
+Time: 1777215712.84 c
+AMErrors: 0.1309
+minProgress: 83.53 %
+Time: 1777215712.84 c
+AMErrors: 0.1305
+minProgress: 83.56 %
+Time: 1777215712.84 c
+AMErrors: 0.1302
+minProgress: 83.60 %
+Time: 1777215712.84 c
+AMErrors: 0.1298
+minProgress: 83.63 %
+Time: 1777215712.84 c
+AMErrors: 0.1294
+minProgress: 83.66 %
+Time: 1777215712.84 c
+AMErrors: 0.1291
+minProgress: 83.69 %
+Time: 1777215712.84 c
+AMErrors: 0.1287
+minProgress: 83.73 %
+Time: 1777215712.84 c
+AMErrors: 0.1284
+minProgress: 83.76 %
+Time: 1777215712.84 c
+AMErrors: 0.1280
+minProgress: 83.79 %
+Time: 1777215712.84 c
+AMErrors: 0.1276
+minProgress: 83.82 %
+Time: 1777215712.84 c
+AMErrors: 0.1273
+minProgress: 83.85 %
+Time: 1777215712.84 c
+AMErrors: 0.1270
+minProgress: 83.88 %
+Time: 1777215712.84 c
+AMErrors: 0.1266
+minProgress: 83.91 %
+Time: 1777215712.84 c
+AMErrors: 0.1263
+minProgress: 83.94 %
+Time: 1777215712.84 c
+AMErrors: 0.1259
+minProgress: 83.97 %
+Time: 1777215712.84 c
+AMErrors: 0.1256
+minProgress: 84.00 %
+Time: 1777215712.84 c
+AMErrors: 0.1253
+minProgress: 84.03 %
+Time: 1777215712.84 c
+AMErrors: 0.1249
+minProgress: 84.06 %
+Time: 1777215712.84 c
+AMErrors: 0.1246
+minProgress: 84.09 %
+Time: 1777215712.84 c
+AMErrors: 0.1243
+minProgress: 84.12 %
+Time: 1777215712.84 c
+AMErrors: 0.1240
+minProgress: 84.15 %
+Time: 1777215712.84 c
+AMErrors: 0.1236
+minProgress: 84.18 %
+Time: 1777215712.84 c
+AMErrors: 0.1233
+minProgress: 84.21 %
+Time: 1777215712.84 c
+AMErrors: 0.1230
+minProgress: 84.24 %
+Time: 1777215712.85 c
+AMErrors: 0.1227
+minProgress: 84.26 %
+Time: 1777215712.85 c
+AMErrors: 0.1224
+minProgress: 84.29 %
+Time: 1777215712.85 c
+AMErrors: 0.1221
+minProgress: 84.32 %
+Time: 1777215712.85 c
+AMErrors: 0.1217
+minProgress: 84.35 %
+Time: 1777215712.85 c
+AMErrors: 0.1214
+minProgress: 84.37 %
+Time: 1777215712.85 c
+AMErrors: 0.1211
+minProgress: 84.40 %
+Time: 1777215712.85 c
+AMErrors: 0.1208
+minProgress: 84.43 %
+Time: 1777215712.85 c
+AMErrors: 0.1205
+minProgress: 84.45 %
+Time: 1777215712.85 c
+AMErrors: 0.1202
+minProgress: 84.48 %
+Time: 1777215712.85 c
+AMErrors: 0.1199
+minProgress: 84.50 %
+Time: 1777215712.85 c
+AMErrors: 0.1197
+minProgress: 84.53 %
+Time: 1777215712.85 c
+AMErrors: 0.1194
+minProgress: 84.56 %
+Time: 1777215712.85 c
+AMErrors: 0.1191
+minProgress: 84.58 %
+Time: 1777215712.85 c
+AMErrors: 0.1188
+minProgress: 84.61 %
+Time: 1777215712.85 c
+AMErrors: 0.1185
+minProgress: 84.63 %
+Time: 1777215712.85 c
+AMErrors: 0.1182
+minProgress: 84.66 %
+Time: 1777215712.85 c
+AMErrors: 0.1179
+minProgress: 84.68 %
+Time: 1777215712.85 c
+AMErrors: 0.1177
+minProgress: 84.70 %
+Time: 1777215712.85 c
+AMErrors: 0.1176
+minProgress: 84.73 %
+Time: 1777215712.85 c
+AMErrors: 0.1174
+minProgress: 84.75 %
+Time: 1777215712.85 c
+AMErrors: 0.1172
+minProgress: 84.78 %
+Time: 1777215712.85 c
+AMErrors: 0.1170
+minProgress: 84.80 %
+Time: 1777215712.85 c
+AMErrors: 0.1169
+minProgress: 84.82 %
+Time: 1777215712.85 c
+AMErrors: 0.1167
+minProgress: 84.85 %
+Time: 1777215712.85 c
+AMErrors: 0.1165
+minProgress: 84.87 %
+Time: 1777215712.85 c
+AMErrors: 0.1164
+minProgress: 84.89 %
+Time: 1777215712.85 c
+AMErrors: 0.1162
+minProgress: 84.91 %
+Time: 1777215712.85 c
+AMErrors: 0.1160
+minProgress: 84.94 %
+Time: 1777215712.85 c
+AMErrors: 0.1159
+minProgress: 84.96 %
+Time: 1777215712.85 c
+AMErrors: 0.1157
+minProgress: 84.98 %
+Time: 1777215712.85 c
+AMErrors: 0.1155
+minProgress: 85.00 %
+Time: 1777215712.85 c
+
