@@ -104,6 +104,7 @@ python main.py
 ошибка сети
 <h1>🧩 Структура кода</h1>
 Функция 	Назначение
+
 activationFunction	сигмоида
 
 trainKohonenNetwork	обучение
